@@ -1,1 +1,2 @@
-# Terraria-Classical-Chinese-Translation
+# 泰拉瑞亚文言文翻译文本
+* 解包自本人之前的汉化修正，免费公开此文本
