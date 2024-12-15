@@ -1,0 +1,16 @@
+{
+	"Mobile": {
+		"EditControllerMappings": "把制囚定：",
+		"ControllerDeviceTitle": "制曰：",
+		"EditControllerProfile": "制之曰：",
+		"Controller": "而制其园",
+		"ControllerShowControlsBannerTitle": "制旗：",
+		"ControllerDisconnected": "请逮捕制以续之……"
+	},
+	"GameUI": {
+		"ControllerMappingsMenu": "把制设"
+	},
+	"Tutorial": {
+		"OpenSettings": "[cm:15]置菜单有系之选，可使夫自通之风也。若汝觉之为难，则汝可于界首建不中编辑布局，与调本朝‘具’之物。又于把制藻井“改制”，总原其键。"
+	}
+}
